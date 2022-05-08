@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        toaster
+//  action 1:    turn on heating element
+toaster.activateHeat();
+//  action 2:    turn off heating element
+toaster.deactivateHeat();
+//  action 3:    eject toast
+toaster.eject();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        latch
+//  action 1:    set to on position
+latch.setOn();
+//  action 2:    set to off position
+latch.setOff();
+//  action 3:    toggle position
+latch.toggle();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        plant
+//  action 1:    convert sunlight to energy
+plant.photosynthesize();
+//  action 2:    grow fruit
+plant.growFruit();
+//  action 3:    drop fruit
+plant.dropFruit();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        ceiling fan
+//  action 1:    toggle light bulb power
+ceilingFan.toggleLight();
+//  action 2:    cycle through fan power states
+ceilingFan.incrementFanPowerState();
+//  action 3:    detach from ceiling
+ceilingFan.detach();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        fire alarm
+//  action 1:    activate siren
+fireAlarm.activateSiren();
+//  action 2:    activate lights
+fireAlarm.activateLights();
+//  action 3:    notify fire department
+fireAlarm.notifyFireDept();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        goat
+//  action 1:    eat
+goat.eat();
+//  action 2:    vocalize
+goat.vocalize();
+//  action 3:    fart
+goat.fart();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        rocket
+//  action 1:    launch
+rocket.launch();
+//  action 2:    detach primary thrusters
+rocket.detachPrimaryThrusters();
+//  action 3:    activate secondary thrusters
+rocket.activateSecondaryThrusters();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        star
+//  action 1:    emit radiation
+star.emitRadiation();
+//  action 2:    spawn solar flare
+star.spawnFlare();
+//  action 3:    supernova
+star.supernova();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        worker ant
+//  action 1:    follow scent trail
+workerAnt.followTrail();
+//  action 2:    pick up food
+workerAnt.carryFood();
+//  action 3:    run in panic
+workerAnt.runInPanic();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        alarm clock
+//  action 1:    set alarm
+alarmClock.setAlarmTime();
+//  action 2:    activate alarm
+alarmClock.activateAlarm();
+//  action 3:    pass time
+alarmClock.tick();
 
 
 #endif
