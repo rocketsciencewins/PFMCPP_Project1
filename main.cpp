@@ -116,13 +116,13 @@ star.spawnFlare();
 //  action 3:    supernova
 star.supernova();
 //  9)
-//  Noun:        dog
-//  action 1:    bark
-dog.bark();
-//  action 2:    poop
-dog.poop();
-//  action 3:    zoom
-dog.zoom();
+//  Noun:        worker ant
+//  action 1:    follow scent trail
+workerAnt.followTrail();
+//  action 2:    pick up food
+workerAnt.carryFood();
+//  action 3:    run in panic
+workerAnt.runInPanic();
 //  10)
 //  Noun:        alarm clock
 //  action 1:    set alarm
